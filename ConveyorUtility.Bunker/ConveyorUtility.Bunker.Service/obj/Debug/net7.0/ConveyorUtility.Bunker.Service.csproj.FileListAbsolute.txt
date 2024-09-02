@@ -1,0 +1,15 @@
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\bin\Debug\net7.0\ConveyorUtility.Bunker.Service.deps.json
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\bin\Debug\net7.0\ConveyorUtility.Bunker.Service.dll
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\bin\Debug\net7.0\ConveyorUtility.Bunker.Service.pdb
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\bin\Debug\net7.0\ConveyorUtility.Bunker.Core.dll
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\bin\Debug\net7.0\ConveyorUtility.Bunker.Core.pdb
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.csproj.AssemblyReference.cache
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.AssemblyInfoInputs.cache
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.AssemblyInfo.cs
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.csproj.CoreCompileInputs.cache
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.csproj.CopyComplete
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.dll
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\refint\ConveyorUtility.Bunker.Service.dll
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ConveyorUtility.Bunker.Service.pdb
+D:\git\github\УНИИМ\Conveyor\ConveyorUtility.Bunker\ConveyorUtility.Bunker.Service\obj\Debug\net7.0\ref\ConveyorUtility.Bunker.Service.dll
