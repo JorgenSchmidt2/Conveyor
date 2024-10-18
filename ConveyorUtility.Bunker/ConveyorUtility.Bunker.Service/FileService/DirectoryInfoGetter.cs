@@ -5,15 +5,15 @@ namespace ConveyorUtility.Bunker.Service.FileService
 {
     public class DirectoryInfoGetter
     {
-        public static ListResponce<LocFileInfo> GetInfo(string PathName)
+        public static ListResponse<LocFileInfo> GetInfo(string PathName)
         {
-            ListResponce<LocFileInfo> Result = new ListResponce<LocFileInfo>();
+            ListResponse<LocFileInfo> Result = new ListResponse<LocFileInfo>();
             Result.ObjectList = new List<LocFileInfo>();
             Result.Status = true;
 
-            string FullDirPath = Environment.CurrentDirectory + PathName;
+            string FullDirPath = Environment.CurrentDirectory + "\\" + PathName;
 
-            if (!Directory.Exists(FullDirPath + PathName))
+            if (!Directory.Exists(FullDirPath))
             {
                 Result.Status = false;
                 Result.Message = "Ошибка: директории " + PathName + " не существует.";
